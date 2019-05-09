@@ -1,6 +1,6 @@
-hello
+hello !
 
-welcome to our page
+welcome to our page! :)
 
 this is a page for interducing you to the numpy.
 
