@@ -2,7 +2,7 @@
 
 <img src="https://img.icons8.com/office/48/000000/user-group-woman-woman.png">
 
-#### welcome to our page! :)
+#### welcome to our page! <img src="https://img.icons8.com/color/48/000000/smiling-face-with-heart.png">
 
 ###### this is a page for interducing you to the numpy.
 
