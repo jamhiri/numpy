@@ -1,8 +1,8 @@
 ## hello !
 
-### welcome to our page! :)
+#### welcome to our page! :)
 
-#### this is a page for interducing you to the numpy.
+###### this is a page for interducing you to the numpy.
 
 NumPy, short for Numerical Python, is the fundamental package required for high performance scientific computing and data analysis.
 
