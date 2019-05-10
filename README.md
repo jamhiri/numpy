@@ -1,5 +1,7 @@
 ## hello !
 
+<img src="https://img.icons8.com/office/48/000000/user-group-woman-woman.png">
+
 #### welcome to our page! :)
 
 ###### this is a page for interducing you to the numpy.
