@@ -4,7 +4,7 @@
 
 #### welcome to our page! <img src="https://img.icons8.com/color/48/000000/smiling-face-with-heart.png">
 
-###### this is a page for interducing you to the numpy.
+this is a page for interducing you to the numpy.
 
 NumPy, short for Numerical Python, is the fundamental package required for high performance scientific computing and data analysis.
 
